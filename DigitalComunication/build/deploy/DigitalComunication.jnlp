@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="DigitalComunication.jnlp">
+  <information>
+    <title>DigitalComunication</title>
+    <vendor>saeedodak.com</vendor>
+    <description>DigitalCommunicationFinalProject</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="DigitalComunication.jar" size="13706" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="0" height="0" main-class="com.saeedodak.application.Main"  name="DigitalCommunicationFinalProject" />
+  <update check="background"/>
+</jnlp>
